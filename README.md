@@ -67,7 +67,7 @@ L'API sera accessible sur `http://localhost:8080`
 
 1. Créer une base de données MySQL :
 ```sql
-CREATE DATABASE greenmind_db;
+CREATE DATABASE greenminddb;
 ```
 
 2. La configuration se trouve dans `application.properties`
